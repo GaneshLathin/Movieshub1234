@@ -1,10 +1,12 @@
-import MovieDownloadSite from "./MovieDownloadSite"
+import ChannelWebsite from "./ChannelWebsite"
+// import MovieDownloadSite from "./MovieDownloadSite"
 
 function App() {
 
   return (
     <>
-     <MovieDownloadSite/>
+     {/* <MovieDownloadSite/> */}
+     <ChannelWebsite/>
     </>
   )
 }
